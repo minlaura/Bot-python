@@ -1,7 +1,7 @@
 # O Bot de Sorteio de Agentes é uma aplicação desenvolvida em Python usando a biblioteca discord.py, que permite aos usuários de um servidor Discord adicionar agentes a uma lista e, em seguida, sortear aleatoriamente um agente da lista. Este bot é útil para equipes ou grupos que precisam atribuir tarefas de forma aleatória entre seus membros de maneira justa e imparcial.
 
 # Principais Funcionalidades:
-Adição de Agentes: Os usuários podem adicionar até 5 agentes à lista.
+Adição de Agentes: Os usuários podem adicionar os agentes à lista.
 Sorteio de Agentes: O bot pode sortear aleatoriamente um agente da lista e exibir o resultado.
 Interações Intuitivas: Utiliza comandos slash (/) para interações diretas e intuitivas com o bot.
 
